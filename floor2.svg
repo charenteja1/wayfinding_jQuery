@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 inkscape:version="0.48.4 r9939" sodipodi:docname="myexample.svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400px"
+	 height="300px" viewBox="0 0 400 300" enable-background="new 0 0 400 300" xml:space="preserve">
+<sodipodi:namedview  inkscape:snap-nodes="false" inkscape:window-height="838" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:current-layer="layer4" inkscape:window-width="1600" inkscape:snap-global="true" inkscape:object-paths="false" inkscape:window-maximized="1" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:document-units="mm" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:zoom="2" inkscape:cx="264.29004" inkscape:cy="544.41083" id="namedview2991" showgrid="false">
+	</sodipodi:namedview>
+<g>
+	<g id="Base">
+		
+		<rect id="Map_borders" x="86.5" y="81.094" fill-opacity="0" stroke="#000000" stroke-miterlimit="10" width="290.501" height="203.5"/>
+		<g id="Stair">
+			<rect x="359.223" y="256.616" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="17.778" height="27.979"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="359.223" y1="262.703" x2="377.001" y2="262.703"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="359.223" y1="268.137" x2="377.001" y2="268.137"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="359.223" y1="273.804" x2="377.001" y2="273.804"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="359.223" y1="279.137" x2="377.001" y2="279.137"/>
+		</g>
+	</g>
+	<g id="Rooms">
+		<a id="A13" xlink:href="#" >
+			<g>
+				<linearGradient id="rect3006_1_" gradientUnits="userSpaceOnUse" x1="332.0208" y1="422.0867" x2="357.3577" y2="422.0867" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect3006" x="223.421" y="161.358" fill="#999999" stroke="url(#rect3006_1_)" stroke-width="0.8681" width="25.337" height="36.853"/>
+				
+				<path id="path3831" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M248.567,187.028h-8.134c1.094,4.256,3.617,6.56,8.134,6.141"/>
+			</g>
+		</a>
+		<a id="A15" xlink:href="#" >
+			<g>
+				<linearGradient id="rect3002_1_" gradientUnits="userSpaceOnUse" x1="398.8167" y1="412.8738" x2="454.0965" y2="412.8738" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect3002" x="290.217" y="154.448" fill="#999999" stroke="url(#rect3002_1_)" stroke-width="0.8681" width="55.278" height="32.247"/>
+				
+				<path id="path3881" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M289.933,168.528h8.134c-1.095,4.256-3.61,6.56-8.134,6.141"/>
+			</g>
+		</a>
+		<a id="A12" xlink:href="#" >
+			<g>
+				<linearGradient id="rect3010_1_" gradientUnits="userSpaceOnUse" x1="341.2336" y1="361.0476" x2="396.5136" y2="361.0476" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect3010" x="232.634" y="99.168" fill="#999999" stroke="url(#rect3010_1_)" stroke-width="0.8681" width="55.28" height="39.156"/>
+				
+				<path id="path3883" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M232.433,115.528h8.134c-1.094,4.256-3.61,6.56-8.134,6.141"/>
+			</g>
+		</a>
+		<a id="A14" xlink:href="#" >
+			<g>
+				<linearGradient id="rect3008_1_" gradientUnits="userSpaceOnUse" x1="334.324" y1="484.2742" x2="361.9637" y2="484.2742" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect3008" x="225.724" y="221.243" fill="#999999" stroke="url(#rect3008_1_)" stroke-width="0.8681" width="27.64" height="41.46"/>
+				
+				<path id="path3885" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M241.594,221.056v8.133c-4.256-1.094-6.56-3.617-6.141-8.133"/>
+			</g>
+		</a>
+		<a id="A11" xlink:href="#" >
+			<g>
+				<linearGradient id="rect3000_1_" gradientUnits="userSpaceOnUse" x1="230.675" y1="486.5789" x2="279.0421" y2="486.5789" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect3000" x="122.075" y="228.154" fill="#999999" stroke="url(#rect3000_1_)" stroke-width="0.8681" width="48.363" height="32.246"/>
+								
+				<path id="path3887" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M170.067,241.528h-8.134c1.094,4.256,3.617,6.56,8.134,6.141"/>
+			</g>
+		</a>
+		<a id="A10" xlink:href="#" >
+			<g>
+				<linearGradient id="rect2998_1_" gradientUnits="userSpaceOnUse" x1="228.3704" y1="422.0867" x2="281.349" y2="422.0867" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect2998" x="119.772" y="159.055" fill="#999999" stroke="url(#rect2998_1_)" stroke-width="0.8681" width="52.979" height="41.459"/>
+				
+				<path id="path3889" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M172.567,166.528h-8.134c1.094,4.256,3.617,6.56,8.134,6.141"/>
+			</g>
+		</a>
+		<a id="A9" xlink:href="#" >
+			<g>
+				<linearGradient id="rect2996_1_" gradientUnits="userSpaceOnUse" x1="223.7668" y1="364.5027" x2="283.6498" y2="364.5027" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect2996" x="115.166" y="99.168" fill="#999999" stroke="url(#rect2996_1_)" stroke-width="0.8681" width="59.886" height="46.066"/>
+				
+				<path id="path3902" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M140.594,144.689v-8.133c-4.256,1.094-6.56,3.61-6.141,8.133"/>
+			</g>
+		</a>
+		<a id="A16" xlink:href="#" >
+			<g>
+				<linearGradient id="rect3004_1_" gradientUnits="userSpaceOnUse" x1="401.1199" y1="470.4587" x2="456.4036" y2="470.4587" gradientTransform="matrix(1 0 0 1 -108.5996 -242.3018)">
+					<stop  offset="0" style="stop-color:#000000"/>
+					<stop  offset="1" style="stop-color:#000000"/>
+				</linearGradient>
+				
+				<rect id="rect3004" x="292.52" y="214.334" fill="#999999" stroke="url(#rect3004_1_)" stroke-width="0.8681" width="55.279" height="27.646"/>
+				
+				<path id="path3904" sodipodi:nodetypes="ccc" inkscape:connector-curvature="0" fill="none" stroke="#000000" stroke-width="0.8681" d="
+					M314.906,241.689v-8.133c4.262,1.094,6.563,3.61,6.146,8.133"/>
+			</g>
+		</a>
+	</g>
+	<g id="Paths">
+		<line fill="none" stroke="#000000" x1="317.501" y1="241.974" x2="318" y2="251.138"/>
+		<line fill="none" stroke="#000000" x1="318" y1="251.138" x2="273.945" y2="251.138"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="251.138" x2="273.945" y2="210.138"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="210.138" x2="239.544" y2="210.138"/>
+		<line fill="none" stroke="#000000" x1="238.5" y1="221.094" x2="239.544" y2="210.138"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="210.138" x2="273.945" y2="189.594"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="189.594" x2="248.758" y2="189.594"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="189.594" x2="273.945" y2="171.622"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="171.622" x2="290.217" y2="171.594"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="171.622" x2="273.945" y2="150.638"/>
+		<line fill="none" stroke="#000000" x1="273.945" y1="150.638" x2="220.445" y2="150.638"/>
+		<line fill="none" stroke="#000000" x1="220.445" y1="150.638" x2="220.445" y2="117.594"/>
+		<line fill="none" stroke="#000000" x1="220.445" y1="117.594" x2="232.634" y2="117.594"/>
+		<line fill="none" stroke="#000000" x1="220.445" y1="150.638" x2="187.445" y2="150.638"/>
+		<line fill="none" stroke="#000000" x1="187.445" y1="150.638" x2="187.445" y2="169.094"/>
+		<line fill="none" stroke="#000000" x1="187.445" y1="169.094" x2="172.748" y2="169.094"/>
+		<line fill="none" stroke="#000000" x1="187.445" y1="150.638" x2="137.5" y2="150.638"/>
+		<line fill="none" stroke="#000000" x1="137.5" y1="150.638" x2="138" y2="145.235"/>
+		<line fill="none" stroke="#000000" x1="187.445" y1="169.094" x2="187.445" y2="243.594"/>
+		<line fill="none" stroke="#000000" x1="187.445" y1="243.594" x2="170.445" y2="243.594"/>
+		<line fill="none" stroke="#000000" x1="239.544" y1="210.138" x2="187.445" y2="210.138"/>
+		<line fill="none" stroke="#000000" x1="318" y1="251.138" x2="317.501" y2="269.638"/>
+		<line fill="none" stroke="#000000" x1="317.501" y1="269.638" x2="187.445" y2="269.638"/>
+		<line fill="none" stroke="#000000" x1="187.445" y1="269.638" x2="187.445" y2="243.594"/>
+		<line fill="none" stroke="#000000" x1="137.5" y1="150.638" x2="104.945" y2="150.638"/>
+		<line fill="none" stroke="#000000" x1="104.945" y1="150.638" x2="104.945" y2="269.638"/>
+		<line fill="none" stroke="#000000" x1="104.945" y1="269.638" x2="187.445" y2="269.638"/>
+		<line fill="none" stroke="#000000" x1="187.445" y1="210.138" x2="104.945" y2="210.138"/>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="368.113" y1="251.138" x2="368.113" y2="256.616"/>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="318" y1="251.138" x2="368.113" y2="251.138"/>
+	</g>
+	<g id="Doors">
+		<line id="A9_1_" fill="none" stroke="#000000" x1="138" y1="145.235" x2="140.594" y2="140.623"/>
+		<line id="A12_1_" fill="none" stroke="#000000" x1="232.634" y1="117.594" x2="236.5" y2="121.118"/>
+		<line id="A10_1_" fill="none" stroke="#000000" x1="172.748" y1="169.094" x2="167.599" y2="171.623"/>
+		<line id="A13_1_" fill="none" stroke="#000000" x1="248.758" y1="189.594" x2="244.5" y2="192.618"/>
+		<line id="A15_1_" fill="none" stroke="#000000" x1="290.217" y1="171.594" x2="295.574" y2="173.094"/>
+		<line id="A16_1_" fill="none" stroke="#000000" x1="317.501" y1="241.974" x2="320.159" y2="237.623"/>
+		<line id="A14_1_" fill="none" stroke="#000000" x1="238.5" y1="221.094" x2="241.594" y2="225.123"/>
+		<line id="A11_1_" fill="none" stroke="#000000" x1="170.445" y1="243.594" x2="164.433" y2="246.556"/>
+	</g>
+	<g id="Portals">
+		
+			<line id="Stair.1.floor1" fill="none" stroke="#000000" stroke-miterlimit="10" x1="368.113" y1="256.616" x2="371.446" y2="262.703"/>
+	</g>
+	<g id="RoomsName">
+		<text transform="matrix(1 0 0 1 229.4998 183.0945)" font-family="'MyriadPro-Regular'" font-size="10">A13</text>
+		<text transform="matrix(1 0 0 1 312.9998 173.0945)" font-family="'MyriadPro-Regular'" font-size="10">A15</text>
+		<text transform="matrix(1 0 0 1 253.9998 122.0945)" font-family="'MyriadPro-Regular'" font-size="10">A12</text>
+		<text transform="matrix(1 0 0 1 233.9998 244.0945)" font-family="'MyriadPro-Regular'" font-size="10">A14</text>
+		<text transform="matrix(1 0 0 1 140.4998 247.5945)" font-family="'MyriadPro-Regular'" font-size="10">A11</text>
+		<text transform="matrix(1 0 0 1 138.4998 183.0945)" font-family="'MyriadPro-Regular'" font-size="10">A10</text>
+		<text transform="matrix(1 0 0 1 138.9998 125.5945)" font-family="'MyriadPro-Regular'" font-size="10">A9</text>
+		<text transform="matrix(1 0 0 1 312.9998 230.5945)" font-family="'MyriadPro-Regular'" font-size="10">A16</text>
+	</g>
+</g>
+</svg>
